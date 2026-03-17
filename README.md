@@ -31,13 +31,6 @@ The goal of this project is to create a smart assistant that can control the com
 This project is based on my idea of building a personal voice assistant that can understand and execute commands.
 I used AI tools like ChatGPT to help convert my ideas and imagination into working code and features.
 
-## 🚀 Future Improvements
-
-* 🖥️ GUI dashboard for better user interaction
-* 👁️ Screen understanding (OCR-based click by voice)
-* 🔊 Improved voice recognition accuracy
-* 🌍 Multi-language support
-
 ## 👨‍💻 Author
 
 **Prashik Bhagat**
